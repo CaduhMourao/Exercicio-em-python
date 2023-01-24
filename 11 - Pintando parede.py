@@ -1,8 +1,8 @@
 largura = float(input('Digite a largura: '))
 altura = float(input('Digite a altura: '))
 
-metros = largura * altura
+area = largura * altura
 
-litros =  metros / 2
+tinta =  area / 2
 
-print(f'Para pintar {metros}m² é necessário {litros}L de tinta.')
+print(f'Para pintar {area}m² é necessário {tinta}L de tinta.')
