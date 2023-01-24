@@ -1,0 +1,22 @@
+valor  = int(input('Insira um valor: '))
+um = valor * 1
+dois = valor * 2
+tres = valor * 3
+quatro = valor * 4
+cinco = valor * 5
+seis = valor * 6
+sete = valor * 7
+oito = valor * 8
+nove = valor * 9
+dez = valor * 10
+
+print(f'{valor} * 1 = {um}')
+print(f'{valor} * 2 = {dois}')
+print(f'{valor} * 3 = {tres}')
+print(f'{valor} * 4 = {quatro}')
+print(f'{valor} * 5 = {cinco}')
+print(f'{valor} * 6 = {seis}')
+print(f'{valor} * 7 = {sete}')
+print(f'{valor} * 8 = {oito}')
+print(f'{valor} * 9 = {nove}')
+print(f'{valor} * 10 = {dez}')
